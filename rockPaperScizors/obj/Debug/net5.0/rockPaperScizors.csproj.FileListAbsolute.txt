@@ -1,0 +1,16 @@
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.exe
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.deps.json
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.runtimeconfig.json
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.runtimeconfig.dev.json
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.dll
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\ref\rockPaperScizors.dll
+C:\source\codeworks\cSharp\rockPaperScizors\bin\Debug\net5.0\rockPaperScizors.pdb
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.csprojAssemblyReference.cache
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.AssemblyInfoInputs.cache
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.AssemblyInfo.cs
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.csproj.CoreCompileInputs.cache
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.dll
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\ref\rockPaperScizors.dll
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.pdb
+C:\source\codeworks\cSharp\rockPaperScizors\obj\Debug\net5.0\rockPaperScizors.genruntimeconfig.cache

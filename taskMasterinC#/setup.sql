@@ -9,13 +9,12 @@
 --   PRIMARY KEY (id)
 -- );
 
--- DROP TABLE cars;
--- CREATE TABLE parties
+-- CREATE TABLE todolists
 -- (
 --   id INT NOT NULL AUTO_INCREMENT,
 --   creatorId VARCHAR(255) NOT NULL,
---   name VARCHAR(255) NOT NULL,
---   public TINYINT(1),
+--   title VARCHAR(255) NOT NULL,
+--   body VARCHAR(255) NOT NULL,
 
 --   PRIMARY KEY (id),
 

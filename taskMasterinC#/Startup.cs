@@ -69,6 +69,9 @@ namespace taskMasterinC_
 
       services.AddTransient<ProfileService>();
       services.AddTransient<ProfileRepository>();
+
+      services.AddTransient<ToDoListService>();
+      services.AddTransient<ToDoListRepository>();
     }
     //NOTE also required for connecting to db
     private IDbConnection CreateDbConnection()

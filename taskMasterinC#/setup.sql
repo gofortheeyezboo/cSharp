@@ -23,6 +23,21 @@
 --     ON DELETE CASCADE
 
 -- );
+-- CREATE TABLE todotasks
+-- (
+-- id INT NOT NULL AUTO_INCREMENT,
+-- creatorId VARCHAR(255) NOT NULL,
+-- body VARCHAR(255) NOT NULL,  
+
+--   PRIMARY KEY (id),
+
+--   FOREIGN KEY (creatorId)
+--     REFERENCES profiles (id)
+--     ON DELETE CASCADE
+
+-- );
+
+
 
 -- CREATE TABLE partymembers
 -- (
